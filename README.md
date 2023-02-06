@@ -3,12 +3,6 @@
 ###### My profile picture source : <a href="https://twitter.com/ArtRojen">@ArtRojen</a>
 &nbsp;
 
-<a href="https://github.com/sizuwanoadi">
-  <img src="https://github-readme-stats.vercel.app/api?username=sizuwanoadi&count_private=true&show_icons=true&theme=react">
-</a>
-<a href="https://github.com/sizuwanoadi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizuwanoadi&layout=compact&theme=react&langs_count=8&hide=html,css,scss,tsql,shell,hack" />
-</a>
 <!--
 **sizuwanoadi/sizuwanoadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
