@@ -1,6 +1,9 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sizuwanoadi">
   <img src="https://github-readme-stats.vercel.app/api?username=sizuwanoadi&count_private=true&show_icons=true&theme=react">
+</a>
+<a href="https://github.com/sizuwanoadi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizuwanoadi&layout=compact&theme=react&langs_count=8" />
 </a>
 <!--
 **sizuwanoadi/sizuwanoadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
