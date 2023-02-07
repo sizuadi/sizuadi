@@ -3,24 +3,15 @@
 ###### My profile picture source : <a href="https://twitter.com/ArtRojen">@ArtRojen</a>
 &nbsp;
 
+- I’m currently working on Tech Company in Indonesia
+- I’m currently learning Golang, Laravel, Vue and NodeJS
+- Reach me at telegram : https://t.me/adisswnt
+
+
+
 <a href="https://github.com/sizuwanoadi">
   <img src="https://github-readme-stats.vercel.app/api?username=sizuwanoadi&count_private=true&show_icons=true&theme=react">
 </a>
 <a href="https://github.com/sizuwanoadi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizuwanoadi&layout=compact&theme=react&langs_count=8&hide=html,css,scss,tsql,shell,hack" />
 </a>
-
-<!--
-**sizuwanoadi/sizuwanoadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
