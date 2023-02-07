@@ -4,7 +4,7 @@
 &nbsp;
 
 - I’m currently working on Tech Company in Indonesia
-- I’m currently learning Golang, Laravel, Vue and NodeJS
+- I’m currently learning Golang, Laravel, Vue, React and NodeJS
 - Reach me at telegram : https://t.me/adisswnt
 
 
