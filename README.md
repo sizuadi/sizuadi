@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-###### My profile picture source : <a href="https://twitter.com/ArtRojen">@ArtRojen</a>
-&nbsp;
-
 - I’m currently working on Tech Company in Indonesia
 - I’m currently learning Golang, Laravel, Vue, React and NodeJS
 - Reach me at telegram : https://t.me/adisswnt
