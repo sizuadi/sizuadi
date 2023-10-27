@@ -6,9 +6,9 @@
 
 
 
-<a href="https://github.com/sizuwanoadi">
-  <img src="https://github-readme-stats.vercel.app/api?username=sizuwanoadi&count_private=true&show_icons=true&theme=react">
+<a href="https://github.com/sizuadi">
+  <img src="https://github-readme-stats.vercel.app/api?username=sizuadi&count_private=true&show_icons=true&theme=react">
 </a>
-<a href="https://github.com/sizuwanoadi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizuwanoadi&layout=compact&theme=react&langs_count=8&hide=html,css,scss,tsql,shell,hack" />
+<a href="https://github.com/sizuadi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizuadi&layout=compact&theme=react&langs_count=8&hide=html,css,scss,tsql,shell,hack" />
 </a>
