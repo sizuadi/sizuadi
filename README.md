@@ -2,17 +2,13 @@
 
 <div align="center">
   <h2>Hi👋! My name is Sizu and i'm a guy who code everything i like </h2>
+  <img align="center" height="200" src="https://media1.tenor.com/m/0kdyGbikjlAAAAAC/hayasaka-ai-hayasaka.gif"  />
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=sizuadi&repo=github-visitors-badge&countColor=%237B1E7A" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sizuadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sizuadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/0kdyGbikjlAAAAAC/hayasaka-ai-hayasaka.gif"  />
-
-###
 
 ## 💻 Tech Stack:
 
